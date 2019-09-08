@@ -1,0 +1,5 @@
+resolver: lts-14.2
+packages:
+- .
+extra-deps:
+- reactive-banana-1.2.1.0@sha256:af0a41dec95e1478acd5280f0fdde51afddf9fbfa4e0a4c226a2c6fa65702796,3975
